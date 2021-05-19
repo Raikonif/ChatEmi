@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="forces_list">
+        <item>Fuerzas Armadas</item>
+        <item>Fuerza Aerea</item>
+        <item>Fuerza Naval</item>
+    </string-array>
+</resources>

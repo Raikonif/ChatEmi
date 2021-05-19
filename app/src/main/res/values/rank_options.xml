@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="militar_ranks">
+        <item>Soldado</item>
+        <item>Sargento</item>
+        <item>Teniente</item>
+        <item>Coronel</item>
+    </string-array>
+</resources>

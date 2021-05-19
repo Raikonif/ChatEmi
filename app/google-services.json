@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "500806359460",
+    "firebase_url": "https://sifaco-1b68e.firebaseio.com",
+    "project_id": "sifaco-1b68e",
+    "storage_bucket": "sifaco-1b68e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500806359460:android:0411c740af8248be338931",
+        "android_client_info": {
+          "package_name": "com.dai.sifaco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500806359460-r5gdrpf0rij03dpmu3fardcth95c8cl9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVLVLyT0Tj9ykqXl3sO_T2iYgofixc7_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500806359460-r5gdrpf0rij03dpmu3fardcth95c8cl9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

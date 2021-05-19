@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SICOFA</string>
+    <string name="sign_out">Cerrar Sesion</string>
+    <string name="new_message">Nuevo Mensaje</string>
+    <string name="profile_view">Perfil de Usuario</string>
+    <string name="politicas">1. POLITICA DE USO APP SICOFA Dentro el uso de la aplicación SICOFA se debe aceptar todos los términos y políticas de seguridad. A continuación, se describen las siguientes políticas: • Todo el personal de cuadros debe seguir las normas e instrucciones que figuran en la documentación técnica y sobre el producto. • El usurario final debe asegurarse que la información sea precisa y esté actualizada. No debe hacerse pasar por otra persona ya que esto implica problemas disciplinarios, sumarios informativos y problemas legales. • Está terminantemente prohibido confundir, engañar, defraudar, inducir a error, sorprender a los usuarios con tus comunicaciones, así mismo el envío de spam es sancionable. • No está permitido el envío de mensajes publicitarios, de marketing ni promocionales. Es posible responderle a una persona que se ponga en contacto contigo tras ver un anuncio que publicaste en una plataforma fuera de una conversación del chat de SICOFA, siempre que dicho anuncio no entre en conflicto con la Política de comercio. • Cada usuario es responsable de emitir y garantizar todos los avisos correspondientes, así como de obtener todos los permisos y consentimientos necesarios para recopilar, usar y compartir el contenido y la información de las personas, lo que incluye mantener una política de privacidad publicada, así como cumplir con la legislación aplicable. • Es prohibido compartir o pedir a otros usuarios que compartan números completos de tarjetas de pago individuales, números de cuentas bancarias, números de documentos de identificación personales ni otros identificadores sensibles. • Esta prohibido reenviar ni, de otro modo, compartir información del chat de un cliente con otro cliente, sacar capturas de pantalla de comunicados oficiales, documentación oficial y publicarla en redes sociales. • Los mensajes no deben incluir contenido ofensivo, por ejemplo, desnudos o material sexualmente explícito, según lo determinemos a nuestro exclusivo criterio. • Como recordatorio, las Condiciones del servicio prohíben, entre otras acciones, la publicación de material falso y el comportamiento ilegal, amenazante, intimidatorio, que incite al odio, u ofensivo en términos raciales o étnicos. Las Condiciones del servicio definen tu relación contractual con SICOFA y las Fuerzas Armadas del Estado prevalecerán en el caso de que existan discrepancias o conflictos con este documento. • Las Fuerzas Armadas del Estado se reservan el derecho de registrar, analizar, extraer y utilizar la información enviada a través de SICOFA únicamente con la finalidad de apoyar en procesos legales, disciplinarios y de carácter esclarecedor e informativo, previa autorización del Comandante en Jefe de las FF.AA. del Estado y el Jefe del Departamento VII Ciberseguridad y Defensa Informatica.</string>
+    <string name="chat_edit_text">     Escribe un Mensaje...</string>
+    <string name="email">E - mail</string>
+    <string name="refresh_password">Restablecer Contraseña</string>
+    <string name="back_to_login">Volver al Login</string>
+    <string name="create_new_account">Crear Nueva Cuenta</string>
+    <string name="password">Password</string>
+    <string name="politicas_de_seguridad">Politicas de Seguridad</string>
+    <string name="upload_image">Subir Foto</string>
+    <string name="profile_dates">DATOS DE PERFIL</string>
+    <string name="username">Nombre de Usuario</string>
+    <string name="edit_profile">Editar Perfil</string>
+    <string name="user_register">Registro de Usuario</string>
+    <string name="latest_message">Latest Message</string>
+    <string name="imagen_jpg">Imagen JPG</string>
+    <string name="rank_origin">Rango - Cargo</string>
+    <string name="about_to">Acerca de</string>
+</resources>
